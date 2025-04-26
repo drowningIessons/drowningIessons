@@ -1,4 +1,4 @@
-тупобес
+
 
 </div>
 <div id="header" align="left">
